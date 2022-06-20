@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EvoFox/codenation-netflix-cli/issues"
   },
-  "homepage": "https://github.com/EvoFox/codenation-netflix-cli#readme"
+  "homepage": "https://github.com/EvoFox/codenation-netflix-cli#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
 }
