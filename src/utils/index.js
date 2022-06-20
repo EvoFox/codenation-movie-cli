@@ -9,6 +9,9 @@ class Movie {
 		movieArr.push(this);
 		console.log(movieArr);
 	}
+	print() {
+		console.log(movieArr);
+	}
 }
 
 module.exports = Movie;
