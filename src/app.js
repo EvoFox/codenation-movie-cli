@@ -12,6 +12,7 @@ if (input[2] === "add") {
 		const movieObj = new Movie(input[i + titleMod], input[i + actorMod]);
 		actorMod += 1;
 		titleMod += 1;
-		movieObj.add();
+        movieObj.add();
+        // Test commit
 	}
 }
